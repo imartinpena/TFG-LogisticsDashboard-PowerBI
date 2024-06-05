@@ -3,5 +3,4 @@ This repository houses my Final Degree Project on a Logistics Dashboard using Po
 
 Visit my web page with all about my final degree.
 
-[Explore now! www.iglobal-store.com]
-(https://iglobal-store.com)
+[Explore now!](https://iglobal-store.com)
