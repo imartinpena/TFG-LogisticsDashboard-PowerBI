@@ -34,7 +34,6 @@ Las contribuciones son bienvenidas. Si tienes alguna sugerencia o encuentras alg
 
 ## Licencia
 Este proyecto está licenciado bajo la Licencia Creative Commons Attribution 3.0 Unported. Consulta el archivo LICENSE.txt para más detalles.
-```
 
 ### Notas sobre los archivos:
 
