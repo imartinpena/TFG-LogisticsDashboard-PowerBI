@@ -4,7 +4,7 @@ Este repositorio contiene el Proyecto Fin de Grado sobre un Cuadro de Mando Log�
 
 Os dejo un link de un video interactivo sobre el uso de la pagina web y que contiene que puede servir de mucha ayuda. 
 
-[¡Pinchar aqui!]([https://iglobal-store.com](https://ceu365-my.sharepoint.com/:v:/g/personal/i_martinpena_usp_ceu_es/EU-xhEqRBDZEmoY4N1-_JtcBtCFEzhvpkxbu1W-URrTNlA?e=2lA8tM)
+[¡Pinchar aqui!](https://ceu365-my.sharepoint.com/:v:/g/personal/i_martinpena_usp_ceu_es/EU-xhEqRBDZEmoY4N1-_JtcBtCFEzhvpkxbu1W-URrTNlA?e=2lA8tM)
 
 https://ceu365-my.sharepoint.com/:v:/g/personal/i_martinpena_usp_ceu_es/EU-xhEqRBDZEmoY4N1-_JtcBtCFEzhvpkxbu1W-URrTNlA?e=2lA8tM
 
